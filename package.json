@@ -1,0 +1,11 @@
+{
+  "name": "api-proxy",
+  "version": "1.0.0",
+  "description": "API to API proxy with 30 predefined keys",
+  "main": "api/proxy.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
